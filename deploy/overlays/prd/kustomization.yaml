@@ -28,3 +28,5 @@ replicas:
 images:
 - name: gbaeke/flux-rt
   newTag: 1.0.2
+- name: webmakaka/flux-rt
+  newTag: 1.0.3
