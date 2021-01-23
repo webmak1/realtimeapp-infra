@@ -14,4 +14,4 @@ images:
 - name: gbaeke/flux-rt
   newTag: sha-11e921f
 - name: webmakaka/flux-rt
-  newTag: sha-392eaaf
+  newTag: sha-ddbebb7
